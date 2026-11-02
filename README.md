@@ -49,15 +49,6 @@ class Ahmed:
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Ahka06/aubus-ride-sharing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahka06&repo=aubus-ride-sharing&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/Ahka06/campus-connect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahka06&repo=campus-connect&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/Ahka06/agent-dsl-compiler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahka06&repo=agent-dsl-compiler&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/Ahka06/riscv-word-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahka06&repo=riscv-word-game&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-
-</div>
-
 | | Project | What it is | Stack |
 |:-:|---|---|---|
 | 🚌 | **[AUBus](https://github.com/Ahka06/aubus-ride-sharing)** | Campus ride-sharing with a multi-threaded server and **P2P chat & voice notes** | Python · PyQt5 · Sockets · SQLite |
@@ -74,12 +65,15 @@ class Ahmed:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahka06&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahka06&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
 
 <img src="https://streak-stats.demolab.com?user=Ahka06&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahka06&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&radius=12" width="100%" />
 
 </div>
 
