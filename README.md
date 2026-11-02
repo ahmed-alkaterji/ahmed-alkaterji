@@ -51,7 +51,7 @@ class AhmedAlKaterji:
 
 | | Project | What it is | Stack |
 |:-:|---|---|---|
-| 🧪 | **[Unknown-Dataset AutoML](https://github.com/ahmed-alkaterji/490-hackathon)** | EECE 490 hackathon (team of 3): solves classification, regression or clustering on **any unseen table in < 60 s**. Validated on 72 datasets, beats scikit-learn defaults on every task | Python · scikit-learn · pandas |
+| 🧪 | **[Unknown-Dataset AutoML](https://github.com/ahmed-alkaterji/unknown-dataset-automl)** | EECE 490 hackathon (team of 3): solves classification, regression or clustering on **any unseen table in < 60 s**. Validated on 72 datasets, beats scikit-learn defaults on every task | Python · scikit-learn · pandas |
 | 🚌 | **[AUBus](https://github.com/ahmed-alkaterji/aubus-ride-sharing)** | Campus ride-sharing with a multi-threaded server and **P2P chat & voice notes** | Python · PyQt5 · Sockets · SQLite |
 | 🎓 | **[CampusConnect](https://github.com/ahmed-alkaterji/campus-connect)** | Clubs & events platform with role-based access and an admin dashboard | Java · Spring Boot · JPA · H2 |
 | 🤖 | **[Agent DSL Compiler](https://github.com/ahmed-alkaterji/agent-dsl-compiler)** | Lexer → parser → semantic analyser for a language that orchestrates AI agents | Python |
