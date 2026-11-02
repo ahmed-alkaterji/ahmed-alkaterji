@@ -1,9 +1,9 @@
 ﻿<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ahmed%20Alkaterji&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Engineering%20Student%20%40%20AUB%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ahmed%20AlKaterji&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20%40%20AUB%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Applied%20ML&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=%F0%9F%9A%8C+Networked+apps+with+raw+sockets;%F0%9F%94%90+Elliptic-curve+crypto+from+scratch;%F0%9F%A4%96+Compilers+for+AI-agent+DSLs;%F0%9F%A7%A0+Machine+learning+%26+computer+vision;%E2%9A%99%EF%B8%8F+RISC-V+assembly+to+Spring+Boot+APIs" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+%E2%80%94+offensive+%26+defensive;%F0%9F%A7%A0+Applied+machine+learning+%26+computer+vision;%F0%9F%8F%A6+Former+IT+%26+Cybersecurity+Intern+%40+BankMed;%F0%9F%94%90+Elliptic-curve+crypto+from+scratch;%F0%9F%9A%8C+Networked+apps+with+raw+sockets" alt="Typing SVG" /></a>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ahmed-alkaterji&label=Profile%20views&color=7c3aed&style=for-the-badge" />
@@ -18,12 +18,12 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```python
-class Ahmed:
-    university = "American University of Beirut 🇱🇧"
-    focus      = ["Networks", "Security & Cryptography", "Machine Learning", "Compilers", "Backend"]
-    building   = "things that talk over sockets, learn from data, and parse their own languages"
+class AhmedAlKaterji:
+    degree     = "Computer Science & Engineering @ American University of Beirut 🇱🇧"
+    focus      = ["Cybersecurity (Offensive & Defensive)", "Applied Machine Learning", "Cryptography", "Networks"]
+    experience = ["IT & Cybersecurity Intern @ BankMed"]
     currently  = ["EECE 455 · Cryptography", "EECE 490 · Machine Learning", "CMPS 240 · Operating Systems"]
-    fun_fact   = "I built Flappy Bird before I wrote my first compiler 🐦"
+    building   = "secure systems that talk over sockets, learn from data, and parse their own languages"
 
     def say_hi(self):
         return "Open to internships & collaborations, let's build something!"
